@@ -1,0 +1,7 @@
+ndioufa,ndioufaj@gmail.com,passer123,724515643,thiés,admin,actif,
+coumba,a@gmail.com,12345,7812056889,tamba,utilisateur,actif,
+fatou,fa@gmail.com,12346,7812056889,tamba,utilisateur,inactif,
+khoudia,dia@gmail.com,dia123,765421232,thiés,utilisateur,inactif,
+ndeye,nd@gmail.com,nd123,721546989,thiés,utilisateur,inactif,
+alioune,alou@gmail.com,alou123,704152365,tamba,admin,actif,
+abdoulaye,abdou@gmail.com,ab123,774568978,dakar,admin,inactif,
